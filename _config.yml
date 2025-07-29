@@ -1,0 +1,6 @@
+title: Pixel – Satellite-Based Environmental Data Analysis
+description: Sitio oficial de la organización
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
