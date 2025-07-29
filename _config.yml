@@ -1,17 +1,35 @@
-title: Pixel – Satellite-Based Environmental Data Analysis
-description: Sitio web oficial
-remote_theme: just-the-docs/just-the-docs
-url: "https://pixel-ong.github.io"  # reemplazá con tu URL real
-color_scheme: light
-plugins:
-  - jekyll-remote-theme
+# title: Pixel – Satellite-Based Environmental Data Analysis
+# description: Sitio web oficial
+# remote_theme: just-the-docs/just-the-docs
+# url: "https://pixel-ong.github.io"  # reemplazá con tu URL real
+# color_scheme: light
+# plugins:
+#   - jekyll-remote-theme
 
+# nav:
+#   - title: Inicio
+#     url: /
+#   - title: Misión
+#     url: /mision
+#   - title: Proyectos
+#     url: /proyectos
+#   - title: Integrantes
+#     url: /integrantes
+
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+repository: pixel-ong/pixel-ong.github.io
+title: Pixel – Satellite-Based Environmental Data Analysis
+name: Pixel – Satellite-Based Environmental Data Analysis
+minimal_mistakes_skin: default
 nav:
   - title: Inicio
     url: /
   - title: Misión
-    url: /mision
+    url: /mision/
   - title: Proyectos
-    url: /proyectos
+    url: /proyectos/
   - title: Integrantes
-    url: /integrantes
+    url: /integrantes/
