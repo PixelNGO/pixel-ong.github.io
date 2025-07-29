@@ -1,8 +1,10 @@
 title: Pixel – Satellite-Based Environmental Data Analysis
 description: Sitio web oficial
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 url: "https://pixel-ong.github.io"  # reemplazá con tu URL real
 color_scheme: light
+plugins:
+  - jekyll-remote-theme
 
 nav:
   - title: Inicio
