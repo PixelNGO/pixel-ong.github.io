@@ -1,6 +1,15 @@
 title: Pixel – Satellite-Based Environmental Data Analysis
-description: Sitio oficial de la organización
-theme: minima
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
+description: Sitio web oficial
+theme: just-the-docs
+url: "https://<tu-usuario>.github.io/mi-sitio"  # reemplazá con tu URL real
+color_scheme: light
+
+nav:
+  - title: Inicio
+    url: /
+  - title: Misión
+    url: /mision
+  - title: Proyectos
+    url: /proyectos
+  - title: Integrantes
+    url: /integrantes
