@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-</head>
-<body>
 
-  <nav>
-    <ul style="list-style: none; display: flex; gap: 20px;">
-      <li><a href="{{ "/" | relative_url }}">Inicio</a></li>
-      <li><a href="{{ "/mision/" | relative_url }}">Misión</a></li>
-      <li><a href="{{ "/proyectos/" | relative_url }}">Proyectos</a></li>
-      <li><a href="{{ "/integrantes/" | relative_url }}">Integrantes</a></li>
-    </ul>
-  </nav>
+  {% include head.html %}
 
-  <main>
-    {{ content }}
-  </main>
 
-</body>
+    <body id="page-top" class="index">
+
+    {% include header.html %}
+    {% include services.html %}
+    {% include portfolio_grid.html %}
+    {% include about.html %}
+    {% include team.html %}
+    {% include clients.html %}
+    {% include contact.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
 </html>

@@ -1,35 +1,64 @@
-# title: Pixel – Satellite-Based Environmental Data Analysis
-# description: Sitio web oficial
-# remote_theme: just-the-docs/just-the-docs
-# url: "https://pixel-ong.github.io"  # reemplazá con tu URL real
-# color_scheme: light
-# plugins:
-#   - jekyll-remote-theme
+url: https://pixel-ong.github.io
+baseurl: ""
 
-# nav:
-#   - title: Inicio
-#     url: /
-#   - title: Misión
-#     url: /mision
-#   - title: Proyectos
-#     url: /proyectos
-#   - title: Integrantes
-#     url: /integrantes
-
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-repository: pixel-ong/pixel-ong.github.io
+# Site settings
 title: Pixel – Satellite-Based Environmental Data Analysis
-name: Pixel – Satellite-Based Environmental Data Analysis
-minimal_mistakes_skin: default
-nav:
-  - title: Inicio
-    url: /
-  - title: Misión
-    url: /mision/
-  - title: Proyectos
-    url: /proyectos/
-  - title: Integrantes
-    url: /integrantes/
+email: pixelongdevelopers@gmail.com
+description: "ONG dedicada al uso de tecnología para resolver desafíos ambientales y sociales."
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
