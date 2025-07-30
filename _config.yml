@@ -8,9 +8,9 @@ description: "ONG dedicada al uso de tecnología para resolver desafíos ambient
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Francisco Grings, PhD
   pic: 1
-  position: Lead Designer
+  position: Director
   social:
     - title: twitter
       url: #
@@ -19,7 +19,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Natalia Morandeira, PhD
   pic: 2
   position: Lead Marketer
   social:
@@ -30,7 +30,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Esteban Roitberg, PhD
   pic: 3
   position: Lead Developer
   social:
@@ -44,15 +44,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: #
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/pixel-ong
 
 # Postal address (add as many lines as necessary)
 address:
