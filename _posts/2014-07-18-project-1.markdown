@@ -1,6 +1,6 @@
 ---
-title: Global Fishing Watch
-subtitle: Oil Spill Detection
+title: Oil Spill Detection
+subtitle: Global Fishing Watch
 layout: default
 modal-id: 1
 date: 2025-07-31
