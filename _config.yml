@@ -2,7 +2,8 @@ url: https://pixel-ong.github.io
 baseurl: ""
 
 # Site settings
-title: Pixel – Satellite-Based Environmental Data Analysis
+# title: Pixel – Satellite-Based Environmental Data Analysis
+title: 
 email: pixelongdevelopers@gmail.com
 description: "ONG dedicada al uso de tecnología para resolver desafíos ambientales y sociales."
 
