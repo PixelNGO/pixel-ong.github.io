@@ -1,5 +1,5 @@
 ---
-title: Near-real-time Deforestation Alert
+title: Near-real-time Deforestation
 subtitle: LAGIRS 2025
 layout: default
 modal-id: 2
