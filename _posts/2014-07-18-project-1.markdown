@@ -1,6 +1,6 @@
 ---
 title: Oil Spill Detection
-subtitle: Global Fishing Watch
+subtitle: GFW
 layout: default
 modal-id: 1
 date: 2025-07-31
@@ -8,7 +8,7 @@ img: oilspill.jpg
 thumbnail: oilspill-thumbnail.jpg
 alt: image-alt
 project-date: August 2025
-client: Global Fishing Watch
+client: GWF
 client-url: https://globalfishingwatch.org/
 category: Feasibility Study
 description: "Satellite-based Oil Spill Detection in Optically Complex Waters: A Feasibility Study for Argentina. Oil spills significantly impact the environment, local economies, and coastal communities. Effective monitoring and rapid response are critical, particularly in regions with extensive coastlines and heavy maritime traffic. Argentina, with its vast Atlantic coast and busy ports, such as Buenos Aires, La Plata, and Bahía Blanca, faces unique challenges due to frequent maritime routes and optically complex turbid waters like the Río de la Plata estuary. 
