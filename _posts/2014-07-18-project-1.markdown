@@ -9,6 +9,7 @@ thumbnail: oilspill-thumbnail.jpg
 alt: image-alt
 project-date: August 2025
 client: Global Fishing Watch
+client-url: https://globalfishingwatch.org/
 category: Feasibility Study
 description: "Satellite-based Oil Spill Detection in Optically Complex Waters: A Feasibility Study for Argentina"
 
