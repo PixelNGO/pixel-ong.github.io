@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.posts limit:3 %}
+            {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -24,10 +24,6 @@
                     </div>
                 </div>
             {% endfor %}
-            </div>
-
-            <div class="text-center">
-                <a href="/projects/" class="page-direct btn btn-xl">See all</a>
             </div>
         </div>
     </section>
