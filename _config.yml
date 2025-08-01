@@ -45,12 +45,10 @@ people:
   pic: Bianco
   position: Vice Director
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/francisco-gonzalez-bianco-a54a111a4/
+    - title: github
+      url: https://github.com/FranciscoGBianco
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
