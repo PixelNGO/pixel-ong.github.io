@@ -10,7 +10,7 @@ description: "ONG dedicada al uso de tecnología para resolver desafíos ambient
 people:
 - name: Francisco Grings, PhD
   pic: Grings
-  position: Director
+  position: President
   social:
     - title: twitter
       url: #
@@ -21,7 +21,7 @@ people:
 
 - name: Natalia Morandeira, PhD
   pic: Morandeira
-  position: Director
+  position: Vice President
   social:
     - title: twitter
       url: #
@@ -33,6 +33,17 @@ people:
 - name: Esteban Roitberg, PhD
   pic: Roitberg
   position: Director
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Francisco González Bianco
+  pic: Bianco
+  position: Vice Director
   social:
     - title: twitter
       url: #
