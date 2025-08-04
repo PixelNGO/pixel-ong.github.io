@@ -871,3 +871,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.logo-img {
+    height: 70px;
+    margin-top: -20px;
+    transition: all 0.2s ease;
+}
+
+/* Adjust for smaller screens */
+@media (max-width: 768px) {
+    .logo-img {
+        height: 50px;
+        margin-top: -10px;
+    }
+}
