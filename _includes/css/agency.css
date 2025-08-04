@@ -873,7 +873,7 @@ body {
 }
 
 .logo-img {
-    height: 70px;
+    height: 15px;
     margin-top: -20px;
     transition: all 0.2s ease;
 }
@@ -881,7 +881,7 @@ body {
 /* Adjust for smaller screens */
 @media (max-width: 768px) {
     .logo-img {
-        height: 50px;
+        height: 10px;
         margin-top: -10px;
     }
 }
