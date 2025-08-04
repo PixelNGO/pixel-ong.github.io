@@ -10,6 +10,6 @@ social:
     url: #
   - title: linkedin
     url: #
-description: "Following the PROSAT II call from the National Commission for Space Activities (CONAE), a system was developed using active microwave polarimetric satellite information from the Argentine SAOCOM Mission, together with other optical and radar satellite data, for monitoring wetlands in Argentina (in line with the use of satellite information for wetland inventory programs). Work was carried out in pilot wetland landscape units: the Ramsar Site in the Upper Delta (Entre Ríos Province), Concepción del Uruguay (Entre Ríos Province), and Bajo de los Saladillos (Santa Fe Province). The first objective was to develop a catalog of backscatter coefficients (active microwave, C and L bands) and spectral responses (visible and reflective infrared) associated with the wetland types in the study areas."
+description: "(he/him) is a physicist and a leading researcher at CONICET, specializing in advanced quantitative remote sensing, electromagnetic scattering models, Bayesian inference, and deep learning techniques. With over two decades of experience in satellite-based time-series analysis, he has contributed significantly to major Argentine space missions (e.g., SAOCOM, SAC-D/Aquarius), focusing on the extraction of environmental parameters from SAR and multi-sensor satellite imagery."
 
 ---
