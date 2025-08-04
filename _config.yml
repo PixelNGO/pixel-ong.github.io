@@ -6,53 +6,53 @@ title: Pixel – Satellite-Based Environmental Data Analysis
 email: pixelongdevelopers@gmail.com
 description: "ONG dedicada al uso de tecnología para resolver desafíos ambientales y sociales."
 
-# Team names, titles and social links
-people:
-- name: Francisco Grings, PhD
-  pic: Grings
-  position: President
-  description: description
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# # Team names, titles and social links
+# people:
+# - name: Francisco Grings, PhD
+#   pic: Grings
+#   position: President
+#   description: description
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
 
-- name: Natalia Morandeira, PhD
-  pic: Morandeira
-  position: Vice President
-  description: description
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+# - name: Natalia Morandeira, PhD
+#   pic: Morandeira
+#   position: Vice President
+#   description: description
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
 
-- name: Esteban Roitberg, PhD
-  pic: Roitberg
-  position: Director
-  description: description
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# - name: Esteban Roitberg, PhD
+#   pic: Roitberg
+#   position: Director
+#   description: description
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
 
-- name: Francisco González Bianco
-  pic: Bianco
-  position: Vice
-  description: description
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/francisco-gonzalez-bianco-a54a111a4/
-    - title: github
-      url: https://github.com/FranciscoGBianco
+# - name: Francisco González Bianco
+#   pic: Bianco
+#   position: Vice
+#   description: description
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/francisco-gonzalez-bianco-a54a111a4/
+#     - title: github
+#       url: https://github.com/FranciscoGBianco
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -78,3 +78,5 @@ permalink: pretty
 collections:
   appearances:
     output: true
+  people:
+    output: false
