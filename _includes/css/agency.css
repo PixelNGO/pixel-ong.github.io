@@ -873,8 +873,8 @@ body {
 }
 
 .logo-img {
-    height: 15px;
-    margin-top: 0px;
+    height: 70px;
+    margin-top: -20px;
     transition: all 0.2s ease;
 }
 
