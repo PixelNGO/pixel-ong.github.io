@@ -71,3 +71,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+collections:
+  appearances:
+    output: true
