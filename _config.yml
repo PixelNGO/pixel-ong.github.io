@@ -11,6 +11,7 @@ people:
 - name: Francisco Grings, PhD
   pic: Grings
   position: President
+  description: description
   social:
     - title: twitter
       url: #
@@ -22,6 +23,7 @@ people:
 - name: Natalia Morandeira, PhD
   pic: Morandeira
   position: Vice President
+  description: description
   social:
     - title: twitter
       url: #
@@ -33,6 +35,7 @@ people:
 - name: Esteban Roitberg, PhD
   pic: Roitberg
   position: Director
+  description: description
   social:
     - title: twitter
       url: #
@@ -44,6 +47,7 @@ people:
 - name: Francisco González Bianco
   pic: Bianco
   position: Vice
+  description: description
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/francisco-gonzalez-bianco-a54a111a4/
