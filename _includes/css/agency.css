@@ -393,7 +393,6 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(0, 0, 0, 0.5); /* Fallback when no plugin support */
-    border-radius: 50%;
     /* background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9); */
 }
 
