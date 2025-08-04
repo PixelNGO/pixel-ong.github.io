@@ -30,5 +30,7 @@ permalink: pretty
 collections:
   appearances:
     output: true
+  publications:
+    output: true
   people:
     output: true
