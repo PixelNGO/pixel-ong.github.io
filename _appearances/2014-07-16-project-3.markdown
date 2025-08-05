@@ -4,8 +4,8 @@ subtitle: LAGIRS 2025
 layout: default
 modal-id: 2
 date: 2025-07-31
-img: deforestation.png
-thumbnail: deforestation-thumbnail.png
+img: huella-humana.gif
+thumbnail: huella-humana-thumbnail.gif
 alt: image-alt
 project-date: November 2025
 client: LAGIRS 2025
