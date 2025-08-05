@@ -2,7 +2,7 @@
 title: AGB Estimation
 subtitle: LiDAR, SAR, Optical
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2025-07-31
 img: AGB.png
 thumbnail: AGB-thumbnail.png
