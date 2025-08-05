@@ -1,5 +1,5 @@
 ---
-title: Oil Spill Detection
+title: Avobe Ground Biomass Estimation
 subtitle: GFW
 layout: default
 modal-id: 1
@@ -11,7 +11,7 @@ project-date: August 2025
 client: GFW
 client-url: https://globalfishingwatch.org/
 category: Feasibility Study
-description: "Satellite-based Oil Spill Detection in Optically Complex Waters: A Feasibility Study for Argentina. Oil spills significantly impact the environment, local economies, and coastal communities. Effective monitoring and rapid response are critical, particularly in regions with extensive coastlines and heavy maritime traffic. Argentina, with its vast Atlantic coast and busy ports, such as Buenos Aires, La Plata, and Bahía Blanca, faces unique challenges due to frequent maritime routes and optically complex turbid waters like the Río de la Plata estuary. 
+description: "Estimating forest biomass through remote sensing is crucial in the context of carbon sequestration, as it is the only way to systematically and periodically quantify the amount of carbon stored in forest ecosystems. Forests act as carbon sinks by absorbing carbon dioxide (CO₂) from the atmosphere during photosynthesis and storing it in their biomass.\nAmong the most widely used satellite systems, ranked in terms of error in aboveground biomass estimation (AGBD), are lidar, SAR, and optical sensors (each with its own challenges). The development of accurate estimation algorithms is an open issue. However, estimates from these instruments are regularly used to monitor deforestation, forest degradation, and natural regeneration processes, as input for decision-making in conservation, reforestation, and sustainable management policies. These data are essential for meeting international climate-related commitments, such as the Paris Agreement and REDD+ (Reducing Emissions from Deforestation and Forest Degradation) mechanisms. 
 "
 
 ---
