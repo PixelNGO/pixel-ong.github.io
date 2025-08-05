@@ -12,7 +12,6 @@ body {
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};
-    text-align: justify;
 }
 
 .text-primary {
