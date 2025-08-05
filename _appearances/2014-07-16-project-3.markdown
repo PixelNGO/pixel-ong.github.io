@@ -4,8 +4,8 @@ subtitle: Wetlands Dynamics
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: wetlands.jpg
+thumbnail: wetlands-thumbnail.jpg
 alt: image-alt
 project-date: August 2025
 client: LAGIRS 2025
