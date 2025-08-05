@@ -1,5 +1,5 @@
 ---
-title: Avobe Ground Biomass Estimation
+title: AGB Estimation
 subtitle: LiDAR, SAR, Optical
 layout: default
 modal-id: 1
