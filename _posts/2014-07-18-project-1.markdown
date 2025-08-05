@@ -4,8 +4,8 @@ subtitle: -
 layout: default
 modal-id: 1
 date: 2025-07-31
-img: AGB.jpg
-thumbnail: AGB-thumbnail.jpg
+img: AGB.png
+thumbnail: AGB-thumbnail.png
 alt: image-alt
 project-date: August 2025
 client: -
