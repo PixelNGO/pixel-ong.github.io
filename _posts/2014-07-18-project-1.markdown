@@ -1,14 +1,14 @@
 ---
 title: Avobe Ground Biomass Estimation
-subtitle: GFW
+subtitle: -
 layout: default
 modal-id: 1
 date: 2025-07-31
-img: oilspill.jpg
-thumbnail: oilspill-thumbnail.jpg
+img: AGB.jpg
+thumbnail: AGB-thumbnail.jpg
 alt: image-alt
 project-date: August 2025
-client: GFW
+client: -
 client-url: https://globalfishingwatch.org/
 category: Feasibility Study
 description: "Estimating forest biomass through remote sensing is crucial in the context of carbon sequestration, as it is the only way to systematically and periodically quantify the amount of carbon stored in forest ecosystems. Forests act as carbon sinks by absorbing carbon dioxide (CO₂) from the atmosphere during photosynthesis and storing it in their biomass.\nAmong the most widely used satellite systems, ranked in terms of error in aboveground biomass estimation (AGBD), are lidar, SAR, and optical sensors (each with its own challenges). The development of accurate estimation algorithms is an open issue. However, estimates from these instruments are regularly used to monitor deforestation, forest degradation, and natural regeneration processes, as input for decision-making in conservation, reforestation, and sustainable management policies. These data are essential for meeting international climate-related commitments, such as the Paris Agreement and REDD+ (Reducing Emissions from Deforestation and Forest Degradation) mechanisms. 
