@@ -9,7 +9,7 @@ thumbnail: Attentionisallyouneed-thumbnail.png
 alt: image-alt
 project-date: August 2025
 client: LAGIRS 2025
-client-url: https://selperbrasil.org.br/events/lagirs-2025/home/
+client-url: https://doi.org/10.48550/arXiv.1706.03762
 category: LLMs
 description: "Transformers"
 
