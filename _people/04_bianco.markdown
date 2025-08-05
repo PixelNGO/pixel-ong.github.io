@@ -1,7 +1,7 @@
 ---
 name: Francisco González Bianco
 pic: Bianco
-position: Vice
+position: Collaborator
 modal-id: bianco
 social:
   - title: linkedin
