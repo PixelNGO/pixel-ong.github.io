@@ -1,6 +1,6 @@
 ---
 title: Near-real-time Deforestation
-subtitle: LAGIRS 2025
+subtitle: Optical
 layout: default
 modal-id: 2
 date: 2025-07-31
