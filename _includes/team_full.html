@@ -10,7 +10,7 @@
             <div class="row">
             {% for member in site.people limit:3 %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <!-- <div class="team-member"> -->
+                    <div class="team-member">
                     <a href="#teamModal{{ member.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -30,7 +30,7 @@
                             </li>
                             {% endfor %}
                         </ul>
-                    <!-- </div> -->
+                    </div>
                 </div>
                 {% endfor %}
             </div>
