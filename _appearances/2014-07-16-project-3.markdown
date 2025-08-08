@@ -4,8 +4,8 @@ subtitle: LAGIRS 2025
 layout: default
 modal-id: 3
 date: 2025-07-31
-img: huella-humana.gif
-thumbnail: huella-humana-thumbnail.gif
+img: Sitio_1.gif
+thumbnail: Sitio_1-thumbnail.gif
 alt: image-alt
 project-date: November 2025
 client: LAGIRS 2025
