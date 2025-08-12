@@ -399,7 +399,7 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(0, 0, 0, 0.6); /* Fallback when no plugin support */
-    border: 7px solid #fff;
+    /* border: 7px solid #fff; */
     border-radius: 50%;
     margin: 5px 18.7px;
     /* background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9); */
