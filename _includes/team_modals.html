@@ -17,6 +17,19 @@
                             <hr class="star-primary">
                             <img src="/img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="image-alt">
                             <p style="text-align: justify;">{{ member.description }}</p>
+                            {% if member.publications and member.publications != "" and member.publications.size > 0 %}
+                                <h4>Publications</h4>
+                                    <ol>
+                                        {% for pub in member.publications %}
+                                            <li>
+                                                <strong>{{ pub.title }}</strong><br>
+                                                {{ pub.authors }}<br>
+                                                <em>{{ pub.journal }}</em>, {{ pub.year }}<br>
+                                                <a href="{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+                                            </li>
+                                        {% endfor %}
+                                    </ol>
+                            {% endif%}
                             <ul class="list-inline social-buttons">
                                 {% for network in member.social %}
                                     <li>
