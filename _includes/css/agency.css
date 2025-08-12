@@ -394,15 +394,14 @@ section h3.section-subheading {
     position: absolute;
     width: 255px;
     height: 255px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     opacity: 0;
-    -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(0, 0, 0, 0.6); /* Fallback when no plugin support */
-    /* border: 7px solid #fff; */
+    background: rgba(0, 0, 0, 0.6);
     border-radius: 50%;
-    margin: 5px 18.7px;
-    /* background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9); */
+    margin: 0; /* remove margin so it doesn't offset */
 }
 
 
