@@ -8,7 +8,7 @@ social:
     url: https://www.linkedin.com/in/javier-arellana-380abb103/
 description: "(he/him) M.Sc. in Physics, Ph.D. candidate at UBA, specializing in soil moisture estimation using SAR and GNSS data. Workplace: Institute of Astronomy and Space Physics, Remote Sensing Group. Skilled in physically based modeling, Bayesian inference, and advanced satellite image processing. Author of peer-reviewed publications and active contributor to scientific conferences. Possesses solid university teaching experience, serves as an invited reviewer for international journals, and engages in collaborative multidisciplinary research aimed at advancing Earth observation methods and applications."
 
-papers:
+publications:
   - title: “Enhanced CyGNSS Soil Moisture Retrieval Validated by In Situ Data in Argentina's Pampas”
     authors: F. Grings, A. Leszczuk, E. Hildt, D. Lorán, J. Arellana, et. al.
     journal: Journal of Applied Remote Sensing, vol. 19, Issue 2, Art no. 024502 
