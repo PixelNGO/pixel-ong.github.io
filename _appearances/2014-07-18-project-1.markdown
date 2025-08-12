@@ -4,8 +4,8 @@ subtitle: GFW
 layout: default
 modal-id: 1
 date: 2025-07-31
-img: oilspill.jpg
-thumbnail: oilspill-thumbnail.jpg
+img: RAE.jpg
+thumbnail: RAE-thumbnail.jpg
 alt: image-alt
 project-date: August 2025
 client: GFW
