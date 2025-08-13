@@ -14,7 +14,7 @@ publications:
     journal: Journal of Applied Remote Sensing, vol. 19, Issue 2, Art no. 024502 
     year: 2025
     doi: https://doi.org/10.1117/1.JRS.19.024502
-  - title: "Validation of GEDI above ground biomass product over Pinus sp. plantations in Argentina"
+  - title: “Validation of GEDI above ground biomass product over Pinus sp. plantations in Argentina”
     authors: J. Arellana, F. Grings and M. Franco
     journal:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 3728-3734
     year: 2025
@@ -24,7 +24,7 @@ publications:
     journal: IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, pp. 952-954
     year: 2024
     doi: http://dx.doi.org/10.1109/ARGENCON62399.2024.10735952
-  - title: "Using SAOCOM Data and Bayesian Inference to Estimate Soil Dielectric Constant in Agricultural Soils"
+  - title: “Using SAOCOM Data and Bayesian Inference to Estimate Soil Dielectric Constant in Agricultural Soils”
     authors: J. Arellana, M. Franco and F. Grings
     journal: IEEE Geoscience and Remote Sensing Letters, vol.20, pp.1-5
     year: 2023
