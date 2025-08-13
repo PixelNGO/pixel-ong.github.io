@@ -13,12 +13,13 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
+                            <h3>{{ post.authors }},  {{ post.publication-date }}</h3>
                             <hr class="star-primary">
                             <img src="/img/publications/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p style="text-align: justify;">{{ post.description }}</p>
+                            <p style="text-align: justify;">{{ post.asbtract }}</p>
                             <ul class="list-inline item-details">
-                                <li>Where:
-                                    <strong><a href="{{ post.client-url }}">{{ post.client }}</a>
+                                <li>Journal:
+                                    <strong><a href="{{ post.client-url }}", target="_blank">{{ post.journal }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
