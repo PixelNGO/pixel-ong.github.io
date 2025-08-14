@@ -6,7 +6,7 @@ journal: IEEE Geoscience and Remote Sensing Letters
 modal-id: Arellana-07-2023
 year: 2023
 date: 2023-07-17
-publication-date: November 2024
+publication-date: July 2023
 img: PIXEL_1.jpg
 thumbnail: PIXEL_1.jpg
 alt: image-alt
