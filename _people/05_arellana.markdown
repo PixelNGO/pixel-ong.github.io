@@ -13,12 +13,12 @@ publications:
     authors: F. Grings, A. Leszczuk, E. Hildt, D. Lorán, J. Arellana, et. al.
     journal: Journal of Applied Remote Sensing, vol. 19, Issue 2, Art no. 024502 
     year: 2025
-    doi: https://doi.org/10.1117/1.JRS.19.024502
+    doi: https://doi.org/10.1109/JSTARS.2025.3526445
   - title: “Validation of GEDI above ground biomass product over Pinus sp. plantations in Argentina”
     authors: J. Arellana, F. Grings and M. Franco
     journal:  IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 3728-3734
     year: 2025
-    doi: https://doi.org/10.1109/JSTARS.2025.3526445
+    doi: https://doi.org/10.1117/1.JRS.19.024502
   - title: “Validation of SAOCOM-Estimated Soil Dielectric Constant Using a Bayesian Inference Scheme in Agricultural Fields”
     authors: J. Arellana, M. Franco and F. Grings
     journal: IEEE Biennial Congress of Argentina (ARGENCON), San Nicolás de los Arroyos, Argentina, pp. 952-954
