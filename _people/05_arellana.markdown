@@ -31,8 +31,8 @@ publications:
     doi: https://doi.org/10.1109/LGRS.2023.3296094
   - title: “Estimation of Soil Dielectric Constant Using GNSS Reflectometry and Interference Pattern Method”
     authors: E. N. Gomes, J. Arellana, et al.
-    journal: Anales AFA Vol. 30 Nro. 4, 2020
-    year: 2023
+    journal: Anales AFA Vol. 30 Nro. 4
+    year: 2020
     doi: http://dx.doi.org/10.31527/analesafa.2019.30.4.90
 ---
 
