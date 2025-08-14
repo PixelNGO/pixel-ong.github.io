@@ -1,0 +1,15 @@
+---
+layout: default
+title: “Enhanced CyGNSS Soil Moisture Retrieval Validated by In Situ Data in Argentina's Pampas”
+authors: J. Arellana, F. Grings, M. Franco
+journal: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 3728-3734
+modal-id: Arellana-01-2025
+year: 2025
+date: 2025-01-06
+publication-date: April 2025
+img: 2025-01-06.jpg
+thumbnail: 2025-01-06-thumbnail.jpg
+alt: image-alt
+client-url: https://doi.org/10.1109/JSTARS.2025.3526445
+asbtract: "Soil moisture (SM) retrieval using signals of opportunity based on specularly reflected signals has gained significant attention in the past two decades. Specifically, with the Cyclone Global Navigation Satellite System (CyGNSS), the reflected signal is often modeled in its simplest form, utilizing the Fresnel reflection coefficients for a semi-infinite dielectric medium corrected with an effective roughness parameter. Within this framework, for bare soils condition, only two parameters need to be inferred: the dielectric permittivity ε (related to SM) and the effective roughness σ. Although this approach is relatively simple, our results show that both the estimated dielectric constant and the modeled reflectivity consistently overestimate CyGNSS observations. To address these overestimations, we propose a model where the reflected signal is scattered by a medium comprising two layers: one with a finite thickness d and permittivity ε1 and the other semi-infinite with permittivity ε2. We observe that both the in-situ measurements of ε1 and the reflectivity reported by CyGNSS align with the optimal values obtained from the fit, resulting in a 73% reduction in root mean square error when compared to the traditional approach. To further enhance SM retrieval, we propose incorporating full polarimetric images from SAOCOM. This will allow us to combine the low revisit time of CyGNSS with the high spatial resolution offered by SAOCOM."
+---
