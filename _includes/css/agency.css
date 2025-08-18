@@ -925,7 +925,7 @@ a[aria-expanded="true"] .arrow {
   top: 100%;
   left: 0;
   min-width: 220px;
-  background: #{{ site.data.template.color.primary }};
+  background: #222;
   border: 1px solid rgba(0,0,0,.1);
   display: none;   /* hidden by default */
   z-index: 1000;
