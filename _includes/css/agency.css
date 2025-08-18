@@ -915,3 +915,29 @@ body {
 a[aria-expanded="true"] .arrow {
   transform: rotate(180deg);
 }
+
+.navbar-nav > .dropdown-hover {
+  position: relative;
+}
+
+.navbar-nav > .dropdown-hover .subnav {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 220px;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.1);
+  display: none;   /* hidden by default */
+  z-index: 1000;
+  padding: 8px 12px;
+}
+
+.navbar-nav > .dropdown-hover:hover .subnav {
+  display: block;  /* show on hover */
+}
+
+/* optional arrow rotation */
+.navbar-nav > .dropdown-hover:hover .arrow {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
