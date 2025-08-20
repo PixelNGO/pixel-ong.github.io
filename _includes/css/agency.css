@@ -941,10 +941,3 @@ a[aria-expanded="true"] .arrow {
   transform: rotate(180deg);
   transition: transform 0.3s ease;
 }
-
-/* Only apply hover dropdown on desktops */
-@media (min-width: 992px) {
-  .navbar-nav > .dropdown:hover > .dropdown-menu {
-    display: block;
-  }
-}
