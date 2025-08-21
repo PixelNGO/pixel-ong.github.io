@@ -391,7 +391,8 @@ section h3.section-subheading {
 
 
 #team .portfolio-item .portfolio-link .portfolio-hover,
-#board .portfolio-item .portfolio-link .portfolio-hover {
+#board .portfolio-item .portfolio-link .portfolio-hover,
+#collaborators .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 255px;
     height: 255px;
@@ -407,7 +408,8 @@ section h3.section-subheading {
 
 
 #team .portfolio-item .portfolio-link .portfolio-hover:hover, 
-#board .portfolio-item .portfolio-link .portfolio-hover:hover {
+#board .portfolio-item .portfolio-link .portfolio-hover:hover,
+#collaborators .portfolio-item .portfolio-link .portfolio-hover:hover {
     opacity: 1;
 }
 
