@@ -950,3 +950,11 @@ a[aria-expanded="true"] .arrow {
   transition: transform 0.3s ease;
 }
 
+@media (max-width: 767px) {
+
+    .nav
+
+    .nav-item .subnav {
+        display: none !important;
+    }
+}
