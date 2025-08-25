@@ -952,7 +952,9 @@ a[aria-expanded="true"] .arrow {
 
 @media (max-width: 767px) {
 
-    .nav
+    .nav .arrow {
+        display: none !important;
+    }
 
     .nav-item .subnav {
         display: none !important;
