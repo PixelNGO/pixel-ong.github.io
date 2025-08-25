@@ -269,10 +269,6 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
-
-    .nav-item .subnav {
-        display: none !important;
-    }
 }
 
 header {
