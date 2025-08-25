@@ -950,7 +950,7 @@ a[aria-expanded="true"] .arrow {
   transition: transform 0.3s ease;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
 
     .nav-item .arrow {
         display: none !important;
@@ -959,4 +959,4 @@ a[aria-expanded="true"] .arrow {
     .nav-item .subnav {
         display: none !important;
     }
-} */
+}
