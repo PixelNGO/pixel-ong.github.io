@@ -950,13 +950,13 @@ a[aria-expanded="true"] .arrow {
   transition: transform 0.3s ease;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width: 768px) {
 
-    .nav .arrow {
+    .nav-item .arrow {
         display: none !important;
     }
 
     .nav-item .subnav {
         display: none !important;
     }
-}
+} */
