@@ -8,14 +8,14 @@ description: "ONG dedicada al uso de tecnología para resolver desafíos ambient
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: #
-  - title: facebook
-    url: #
-  - title: stack-overflow
-    url: #
-  - title: linkedin 
-    url: #
+  # - title: twitter
+  #   url: #
+  # - title: facebook
+  #   url: #
+  # - title: stack-overflow
+  #   url: #
+  # - title: linkedin 
+  #   url: #
   - title: github
     url: https://github.com/pixel-ong
 
