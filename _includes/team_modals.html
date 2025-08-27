@@ -30,7 +30,7 @@
                                             <hr class="star-secondary">
                                         {% endfor %}
                                     </ol>
-                            {% endif%}
+                            {% endif %}
                             <ul class="list-inline social-buttons">
                                 {% for network in member.social %}
                                     <li>
@@ -39,6 +39,13 @@
                                         </a>
                                     </li>
                                 {% endfor %}
+                                {%if member.contact and member.contact != ""}
+                                    <li>
+                                        <a href="{{ member.contact }}" target="_blank">
+                                            <i class="fa-solid fa-envelope"></i>
+                                        </a>
+                                    </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
