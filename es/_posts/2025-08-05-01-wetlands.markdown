@@ -1,5 +1,6 @@
 ---
-title: Wetlands
+title: Humedales
+lang: es
 subtitle: SAR, Optical
 layout: default
 modal-id: 1

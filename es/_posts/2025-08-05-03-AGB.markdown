@@ -1,5 +1,6 @@
 ---
 title: AGB Estimation
+lang: es
 subtitle: LiDAR, SAR, Optical
 layout: default
 modal-id: 3

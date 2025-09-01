@@ -1,5 +1,6 @@
 ---
 title: Near-real-time Deforestation
+lang: es
 subtitle: Optical
 layout: default
 modal-id: 2
