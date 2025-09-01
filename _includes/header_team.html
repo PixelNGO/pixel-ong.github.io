@@ -55,10 +55,13 @@
                     <li>
                         <a class="page-scroll" href="/#contact">Contact</a>
                     </li>
-                    <!-- 
-                    <li>
-                        <a href="/projects/">Projects</a>
-                    </li> -->
+                    <li class="nav-item">
+                        {% if page.lang == "es" %}
+                            <a href="{{ site.url }}/team/">English</a>
+                        {% else %}
+                            <a href="{{ site.url }}/es{{ page.url | replace:'/en','' }}/team/">Español</a>
+                        {% endif %}
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
