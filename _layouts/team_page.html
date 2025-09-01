@@ -6,14 +6,13 @@
 
     <body id="page-top" class="index">
 
-    {% include header_team.html %}
-    {% include team_full.html %}
-    {% include team_collaborators.html %}
-    <!-- {% include clients.html %} -->
-    {% include contact.html %}
-    {% include footer.html %}
-    {% include team_modals.html %}
-    {% include js.html %}
+    {% include {{ page.lang }}/header_team.html %}
+    {% include {{ page.lang }}/team_full.html %}
+    {% include {{ page.lang }}/team_collaborators.html %}
+    {% include {{ page.lang }}/contact.html %}
+    {% include {{ page.lang }}/footer.html %}
+    {% include {{ page.lang }}/team_modals.html %}
+    {% include {{ page.lang }}/js.html %}
 
     </body>
 </html>
