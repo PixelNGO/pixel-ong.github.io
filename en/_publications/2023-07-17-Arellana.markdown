@@ -1,0 +1,16 @@
+---
+layout: default
+title: “Using SAOCOM Data and Bayesian Inference to Estimate Soil Dielectric Constant in Agricultural Soils”
+authors: J. Arellana, F. Grings and M. Franco
+journal: IEEE Geoscience and Remote Sensing Letters
+modal-id: Arellana-07-2023
+year: 2023
+date: 2023-07-17
+publication-date: July 2023
+img: PIXEL_1.jpg
+thumbnail: PIXEL_1.jpg
+alt: image-alt
+client-url: https://doi.org/10.1109/LGRS.2023.3296094
+asbtract: "Soil moisture is a key geophysical variable that can be estimated using remote-sensing techniques by making use of the known relation between soil backscattering and the dielectric constant in the microwave regime. However, since SAR system observations depend on geometrical and dielectric surface parameters (besides instrument parameters like operation frequency, incidence angle, and received/transmitted polarization), the uncertainties associated with a given retrieval scheme are difficult to evaluate. In this letter, these uncertainties associated with the estimation of soil dielectric constant from a single quad-pol SAR image are studied using a physically based interaction model (i.e., a two-layer version of the small perturbation method (SPM) model at second order) coupled with a Bayesian approach. The overall scheme was validated using SAOCOM quad-pol data and in situ soil dielectric constant measurements in experimental agricultural plots in Argentina. Both theoretical end-to-end experiments and actual retrieval from real SAR data were implemented. From the simulations, the intrinsic ambiguities in the estimations of soil dielectric constant from a single image were studied, and the benefits of using two images with different incidence angles were discussed. Finally, by analyzing SAOCOM data using the proposed retrieval scheme, soil dielectric constants were estimated and compared with in situ measurements, with a root-mean-square error (RMSE) of ≤2."
+
+---

@@ -1,0 +1,33 @@
+ <!-- Publications Modals -->
+ {% for post in site.publications %}
+    <div class="portfolio-modal modal fade" id="publicationModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h3>{{ post.title }}</h3>
+                            <h4>{{ post.authors }},  {{ post.publication-date }}</h4>
+                            <hr class="star-primary">
+                            <!-- <img src="/img/publications/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"> -->
+                            <p style="text-align: justify;">{{ post.asbtract }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Journal:
+                                    <strong><a href="{{ post.client-url }}", target="_blank">{{ post.journal }}</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

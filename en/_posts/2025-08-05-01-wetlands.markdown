@@ -1,0 +1,15 @@
+---
+title: Wetlands
+subtitle: SAR, Optical
+layout: default
+modal-id: 1
+date: 2014-07-16
+img: wetlands.jpg
+thumbnail: wetlands-thumbnail.jpg
+alt: image-alt
+project-date: August 2025
+client: CONAE
+category: Environmental monitoring
+description: "Following the PROSAT II call from the National Commission for Space Activities (CONAE), a system was developed using active microwave polarimetric satellite information from the Argentine SAOCOM Mission, together with other optical and radar satellite data, for monitoring wetlands in Argentina (in line with the use of satellite information for wetland inventory programs). Work was carried out in pilot wetland landscape units: the Ramsar Site in the Upper Delta (Entre Ríos Province), Concepción del Uruguay (Entre Ríos Province), and Bajo de los Saladillos (Santa Fe Province). The first objective was to develop a catalog of backscatter coefficients (active microwave, C and L bands) and spectral responses (visible and reflective infrared) associated with the wetland types in the study areas.\nThe catalog is an interactive dashboard that displays graphs for each wetland type, allowing users to view spectral signatures or characteristic backscatter (mean values and deviation or range of variation) for a selected period, as well as the temporal dynamics of backscatter or synthetic indices derived from optical satellite data. The dashboard was designed with two modalities: a) exploratory, in which each user can obtain graphs by freely filtering by scene type, date, and wetland type; b) guided, in which pre-built graphs are accessed, accompanied by an interpretation made by the consultants (for example, differences between dry and wet periods, or analysis of differences between wetland types). It is useful for managers involved in wetland mapping, as it provides a summary and interpretation of SAR and optical information."
+
+---

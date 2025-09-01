@@ -1,0 +1,16 @@
+---
+layout: default
+title: “Validation of Saocom-Estimated Soil Dielectric Constant Using a Bayesian Inference Scheme in Agricultural Fields”
+authors: J. Arellana, F. Grings and M. Franco
+journal: 2024 IEEE Biennial Congress of Argentina (ARGENCON)
+modal-id: Arellana-11-2024
+year: 2024
+date: 2024-11-04
+publication-date: November 2024
+img: PIXEL_1.jpg
+thumbnail: PIXEL_1.jpg
+alt: image-alt
+client-url: https://doi.org/10.1109/ARGENCON62399.2024.10735952
+asbtract: "In this study, the estimation of soil moisture from a single quad-pol Synthetic Aperture Radar (SAR) image from SAOCOM mission along with a physically based interaction model (two-layer version of the small perturbation method model at the second order) was validated with in-situ measured data in the central region of Argentina. The relationship between microwave backscattering and dielectric constant (ϵ) allows for precise estimation of ϵ effectively disambiguating the influence of soil roughness in bare soil conditions. Measured dielectric constants from the study area are used for validation."
+
+---

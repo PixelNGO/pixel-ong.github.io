@@ -1,0 +1,16 @@
+---
+title: Near-real-time Deforestation
+subtitle: Optical
+layout: default
+modal-id: 2
+date: 2025-07-31
+img: deforestation.png
+thumbnail: deforestation-thumbnail.png
+alt: image-alt
+project-date: November 2025
+client: LAGIRS 2025
+client-url: https://selperbrasil.org.br/events/lagirs-2025/home/
+category: Scientific Paper
+description: "Deforestation poses a significant threat to natural ecosystems, particularly in Argentina’s Chaco region—one of the world’s most rapidly changing forest areas. This study focuses on the detection of sudden deforestation events, where forest cover is rapidly removed within a few months. Monitoring such changes across vast areas requires the use of satellite-based vegetation indices, such as EVI and NDVI from MODIS. However, accurately identifying deforestation events is challenging due to seasonal variability, sensor noise, data gaps, and algorithmic inconsistencies. These factors can obscure true deforestation signals or generate false positives. To address these issues, a robust detection approach must explicitly model time-series dynamics—capturing trends, seasonality, and uncertainty—to reliably distinguish genuine deforestation breakpoints from natural variation and noise. In this paper, three models for the detection of breakpoints in EVI time series were proposed: a simple z-score anomaly detector, and two fully Bayesian models; one temporally uncorrelated and one fully correlated. Results indicate that the Bayesian schemes significantly improve over the naive approach (zscore: AUC=0.921, F1-score=0.870, Bayes: AUC=0.959, F1-score=0.925), for a reasonable cost in computing time (x1000)."
+
+---
