@@ -36,6 +36,6 @@ collections:
     output: true
 
 languages: ["es", "en"]
-default_lang: "en"
+default_lang: "es"
 
 mission: "Our mission is to design and implement robust methodologies for extracting environmental information from satellite imagery. We aim to use these methodologies to generate reliable, satellite-based spatio-temporal products that enable comprehensive monitoring of Land Cover and Land Use Change (LCLUc). Among the wide range of LCLUc processes, we focus on those most critical for Argentina in 2025: wetland loss and degradation, forest deforestation and degradation, and water deficits or surpluses in agricultural regions. Since 2010, major Earth observation agencies such as NASA and ESA have developed several global-scale operational products addressing these issues. While valuable as a first step, these products often underperform at the local level, largely due to limited in situ validation and the coarse operational scale at which they were designed. Our goal is to bridge this gap by advancing state-of-the-art, quantitative methodologies that deliver rigorous, locally relevant evidence to support policymakers and empower communities."
