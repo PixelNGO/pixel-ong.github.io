@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="/#page-top">
+                <a class="navbar-brand page-scroll" href="/es/#page-top">
                     <img src="/img/PIXEL_1_bg_short.png" alt="Logo" class="logo-img">
                 </a>
             </div>
@@ -21,20 +21,20 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/#services">What we do</a>
+                        <a class="page-scroll" href="/es/#services">Qué hacemos</a>
                     </li>
                     <!-- <li>
                         <a class="page-scroll" href="#portfolio">Projects</a>
                     </li> -->
                     <li class="nav-item dropdown-hover">
-                        <a class="page-scroll" href="/#portfolio">
-                            Projects <span class="arrow">&#9662;</span>
+                        <a class="page-scroll" href="/es/#portfolio">
+                            Proyectos <span class="arrow">&#9662;</span>
                         </a>
                         <div class="subnav">
                             <ul class="list-unstyled ps-3 mb-0">
-                            <li><a class="page-scroll" href="/projects/#portfolio">Projects</a></li>
-                            <li><a class="page-scroll" href="/projects/#appearances">Appearances</a></li>
-                            <li><a class="page-scroll" href="/projects/#publications">Publications</a></li>
+                            <li><a class="page-scroll" href="/es/projects/#portfolio">Proyectos</a></li>
+                            <li><a class="page-scroll" href="/es/projects/#appearances">Apariciones</a></li>
+                            <li><a class="page-scroll" href="/es/projects/#publications">Publicaciones</a></li>
                             </ul>
                         </div>
                     </li>
@@ -43,22 +43,26 @@
                     </li> -->
                     <li class="nav-item dropdown-hover">
                         <a class="page-scroll" href="#page-top">
-                            Team <span class="arrow">&#9662;</span>
+                            Equipo <span class="arrow">&#9662;</span>
                         </a>
                         <div class="subnav">
                             <ul class="list-unstyled ps-3 mb-0">
                             <li><a class="page-scroll" href="#board">Board</a></li>
-                            <li><a class="page-scroll" href="#collaborators">Colaborators</a></li>
+                            <li><a class="page-scroll" href="#collaborators">Colaboradores</a></li>
                             </ul>
                         </div>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/#contact">Contact</a>
+                        <a class="page-scroll" href="#contact">Contacto</a>
                     </li>
-                    <!-- 
-                    <li>
-                        <a href="/projects/">Projects</a>
-                    </li> -->
+                    </li>
+                                        <li class="nav-item">
+                        {% if page.lang == "es" %}
+                            <a href="{{ site.url }}">English</a>
+                        {% else %}
+                            <a href="{{ site.url }}/es{{ page.url | replace:'/en','' }}">Español</a>
+                        {% endif %}
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
