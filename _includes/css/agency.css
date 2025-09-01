@@ -956,3 +956,8 @@ a[aria-expanded="true"] .arrow {
         display: none !important;
     }
 }
+
+.navbar-nav .nav-item span {
+  line-height: 1; 
+  padding: 0 2px;
+}
