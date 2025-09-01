@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.appearances %}
+            {% assign apps = site.appearances | where:"lang", page.lang %}
+            {% for post in apps %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#appearanceModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">

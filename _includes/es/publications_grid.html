@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-            {% assign reversed_pubs = site.publications | reverse %}
+            {% assign pubs = site.publications | where:"lang", page.lang %}
+            {% assign reversed_pubs = pubs | reverse %}
             {% for post in reversed_pubs %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#publicationModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">

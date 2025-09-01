@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.people offset:3 %}
+                {% assign people = site.people | where:"lang", page.lang %}
+                {% for member in people offset:3 %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <div class="team-member">
                     <a href="#teamModal{{ member.modal-id }}" class="portfolio-link" data-toggle="modal">
