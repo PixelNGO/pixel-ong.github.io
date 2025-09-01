@@ -1,4 +1,5 @@
 ---
+lang: es
 name: Esteban Roitberg, PhD
 pic: Roitberg
 position: Director

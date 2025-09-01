@@ -1,4 +1,5 @@
 ---
+lang: es
 name: Francisco Grings, PhD
 pic: Grings
 position: President

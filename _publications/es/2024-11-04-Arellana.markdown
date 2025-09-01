@@ -1,4 +1,5 @@
 ---
+lang: es
 layout: default
 title: “Validation of Saocom-Estimated Soil Dielectric Constant Using a Bayesian Inference Scheme in Agricultural Fields”
 authors: J. Arellana, F. Grings and M. Franco

@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: default
 title: “Enhanced CyGNSS Soil Moisture Retrieval Validated by In Situ Data in Argentina's Pampas”
 authors: J. Arellana, F. Grings, M. Franco

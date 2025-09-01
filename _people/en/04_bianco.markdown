@@ -1,4 +1,5 @@
 ---
+lang: en
 name: Francisco González Bianco
 pic: Bianco
 position: Collaborator

@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: default
 title: “Validation of GEDI above ground biomass product over Pinus sp. plantations in Argentina”
 authors: F. Grings, A. Leszczuk, E. Hildt, D. Lorán, J. Arellana, et. al.

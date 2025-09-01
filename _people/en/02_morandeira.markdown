@@ -1,4 +1,5 @@
 ---
+lang: en
 name: Natalia Morandeira, PhD
 pic: Morandeira
 position: Vice President

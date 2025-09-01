@@ -1,5 +1,6 @@
 ---
 title: Reunión Argentina de Ecología
+lang: en
 subtitle: GFW
 layout: default
 modal-id: 1

@@ -1,4 +1,5 @@
 ---
+lang: en
 name: Javier Arellana
 pic: Arellana
 position: Collaborator
