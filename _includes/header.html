@@ -57,9 +57,11 @@
                     </li>
                     
                     <li class="nav-item">
-                            <a href="/projects/">ES</a>
-                            <span>/</span>
-                            <a href="/team/">EN</a>
+                        {% if page.lang == "es" %}
+                            <a href="{{ site.url }}/en{{ page.url | replace:'/es','' }}">English</a>
+                        {% else %}
+                            <a href="{{ site.url }}/es{{ page.url | replace:'/en','' }}">Español</a>
+                        {% endif %}
                     </li>
                 </ul>
             </div>
