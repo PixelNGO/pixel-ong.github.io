@@ -12,7 +12,7 @@ project-date: August 2025
 client: GFW
 client-url: https://asaeargentina.com.ar/rae2025/
 category: Feasibility Study
-description: "Proyecto de fotogrametría. 
+description: "The Pilar Municipal Nature Reserve (Buenos Aires) protects a sector of the Luján River floodplain with diverse plant communities. Our objective was to evaluate the feasibility of estimating vegetation height from information obtained with an Unmanned Aerial Vehicle (UAV). In May 2025, we conducted automated grid flights over cleared forest (12 ha) and grassland (13 ha) environments using the DJI Phantom 4 Pro UAV, equipped with a 20-megapixel RGB camera. The photographs were processed using digital photogrammetric techniques that allow the generation of dense point clouds. We obtained georeferenced orthomosaics, surface elevation models, and terrain elevation models (DTMs). In the field, we geolocated plant individuals with Differential GNSS (dGNSS) and measured terrain altitude. We also used a laser rangefinder to estimate the height of individual plants of *Celtis tala*, *Phytolacca dioica*, *Solanum granulosum-leprosum*, *Salix humboldtiana*, *Morus* sp., *Baccharis* sp., and *Cortaderia selloana*. The consistency between the DTMs obtained from dGNSS measurements and those obtained from UAV data was low in areas of high tree density. Vegetation height estimates showed a very good fit with field measurements, regardless of the DTM used (Pearson correlation, r = 0.98 to 0.95). However, biases in individual height were greater when using the UAV-derived DTM. The results highlight the potential of UAV data acquisition and photogrammetry to characterize vegetation structure.
 "
 
 ---
