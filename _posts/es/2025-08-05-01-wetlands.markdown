@@ -1,16 +1,16 @@
 ---
 title: Humedales
 lang: es
-subtitle: SAR, Optical
+subtitle: SAR, Óptico
 layout: default
 modal-id: 1
 date: 2014-07-16
 img: wetlands.jpg
 thumbnail: wetlands-thumbnail.jpg
 alt: image-alt
-project-date: August 2025
+project-date: Agosto 2025
 client: CONAE
-category: Environmental monitoring
-description: "Following the PROSAT II call from the National Commission for Space Activities (CONAE), a system was developed using active microwave polarimetric satellite information from the Argentine SAOCOM Mission, together with other optical and radar satellite data, for monitoring wetlands in Argentina (in line with the use of satellite information for wetland inventory programs). Work was carried out in pilot wetland landscape units: the Ramsar Site in the Upper Delta (Entre Ríos Province), Concepción del Uruguay (Entre Ríos Province), and Bajo de los Saladillos (Santa Fe Province). The first objective was to develop a catalog of backscatter coefficients (active microwave, C and L bands) and spectral responses (visible and reflective infrared) associated with the wetland types in the study areas.\nThe catalog is an interactive dashboard that displays graphs for each wetland type, allowing users to view spectral signatures or characteristic backscatter (mean values and deviation or range of variation) for a selected period, as well as the temporal dynamics of backscatter or synthetic indices derived from optical satellite data. The dashboard was designed with two modalities: a) exploratory, in which each user can obtain graphs by freely filtering by scene type, date, and wetland type; b) guided, in which pre-built graphs are accessed, accompanied by an interpretation made by the consultants (for example, differences between dry and wet periods, or analysis of differences between wetland types). It is useful for managers involved in wetland mapping, as it provides a summary and interpretation of SAR and optical information."
+category: Monitoreo Ambiental
+description: "Tras la convocatoria PROSAT II de la Comisión Nacional de Actividades Espaciales (CONAE), se desarrolló un sistema que utiliza información satelital polarimétrica de microondas activa de la Misión SAOCOM argentina, junto con otros datos satelitales ópticos y de radar, para el monitoreo de humedales en Argentina (en consonancia con el uso de información satelital para programas de inventario de humedales). El trabajo se llevó a cabo en unidades piloto de paisaje de humedales: el Sitio Ramsar del Alto Delta (provincia de Entre Ríos), Concepción del Uruguay (provincia de Entre Ríos) y Bajo de los Saladillos (provincia de Santa Fe). El primer objetivo fue desarrollar un catálogo de coeficientes de retrodispersión (microondas activa, bandas C y L) y respuestas espectrales (visible e infrarrojo reflexivo) asociadas a los tipos de humedales en las áreas de estudio. El catálogo es un panel interactivo que muestra gráficos para cada tipo de humedal, lo que permite a los usuarios visualizar las firmas espectrales o la retrodispersión característica (valores medios y desviación o rango de variación) para un período seleccionado, así como la dinámica temporal de la retrodispersión o los índices sintéticos derivados de datos satelitales ópticos. El panel se diseñó con dos modalidades: a) exploratoria, en la que cada usuario puede obtener gráficos filtrando libremente por tipo de escena, fecha y tipo de humedal; b) guiada, en la que se accede a gráficos prediseñados, acompañados de una interpretación realizada por los consultores (por ejemplo, diferencias entre períodos secos y húmedos, o análisis de las diferencias entre tipos de humedales). Resulta útil para los gestores que participan en el mapeo de humedales, ya que proporciona un resumen e interpretación de la información SAR y óptica."
 
 ---

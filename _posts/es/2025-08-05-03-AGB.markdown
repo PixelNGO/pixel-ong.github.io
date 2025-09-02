@@ -1,18 +1,18 @@
 ---
-title: AGB Estimation
+title: Estimación de AGB
 lang: es
-subtitle: LiDAR, SAR, Optical
+subtitle: LiDAR, SAR, Óptico
 layout: default
 modal-id: 3
 date: 2025-07-31
 img: AGB.png
 thumbnail: AGB-thumbnail.png
 alt: image-alt
-project-date: August 2025
+project-date: Agosto 2025
 client: No client
-client-url: https://globalfishingwatch.org/
-category: Feasibility Study
-description: "Estimating forest biomass through remote sensing is crucial in the context of carbon sequestration, as it is the only way to systematically and periodically quantify the amount of carbon stored in forest ecosystems. Forests act as carbon sinks by absorbing carbon dioxide (CO₂) from the atmosphere during photosynthesis and storing it in their biomass.\nAmong the most widely used satellite systems, ranked in terms of error in aboveground biomass estimation (AGBD), are lidar, SAR, and optical sensors (each with its own challenges). The development of accurate estimation algorithms is an open issue. However, estimates from these instruments are regularly used to monitor deforestation, forest degradation, and natural regeneration processes, as input for decision-making in conservation, reforestation, and sustainable management policies. These data are essential for meeting international climate-related commitments, such as the Paris Agreement and REDD+ (Reducing Emissions from Deforestation and Forest Degradation) mechanisms. 
+client-url: ""
+category: Estudio de Factibilidad
+description: "Estimar la biomasa forestal mediante teledetección es crucial en el contexto del secuestro de carbono, ya que es la única manera de cuantificar sistemática y periódicamente la cantidad de carbono almacenado en los ecosistemas forestales. Los bosques actúan como sumideros de carbono al absorber dióxido de carbono (CO₂) de la atmósfera durante la fotosíntesis y almacenarlo en su biomasa. Entre los sistemas satelitales más utilizados, clasificados en función del error en la estimación de la biomasa aérea (AGBD), se encuentran el lidar, el SAR y los sensores ópticos (cada uno con sus propios desafíos). El desarrollo de algoritmos de estimación precisos es un tema abierto. Sin embargo, las estimaciones de estos instrumentos se utilizan regularmente para monitorear la deforestación, la degradación forestal y los procesos de regeneración natural, como insumo para la toma de decisiones en políticas de conservación, reforestación y gestión sostenible. Estos datos son esenciales para cumplir con los compromisos internacionales relacionados con el clima, como el Acuerdo de París y los mecanismos REDD+ (Reducción de Emisiones por Deforestación y Degradación Forestal). 
 "
 
 ---
