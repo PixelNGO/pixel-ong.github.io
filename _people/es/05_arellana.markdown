@@ -8,7 +8,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/javier-arellana-380abb103/
 contact: 
-description: "(he/him) M.Sc. in Physics, Ph.D. candidate at UBA, specializing in soil moisture estimation using SAR and GNSS data. Workplace: Institute of Astronomy and Space Physics, Remote Sensing Group. Skilled in physically based modeling, Bayesian inference, and advanced satellite image processing. Author of peer-reviewed publications and active contributor to scientific conferences. Possesses solid university teaching experience, serves as an invited reviewer for international journals, and engages in collaborative multidisciplinary research aimed at advancing Earth observation methods and applications."
+description: "(él) Licenciado Física, doctorando en la UBA especializado en la estimación de humedad del suelo mediante datos SAR y GNSS. Lugar de trabajo: Instituto de Astronomía y Física del Espacio, Grupo de Teledetección. Experiencia en modelado físico, inferencia bayesiana y procesamiento avanzado de imágenes satelitales. Autor de publicaciones revisadas por pares y participante activo en congresos científicos. Amplia trayectoria docente universitaria, revisor invitado en revistas internacionales y colaborador en investigación multidisciplinaria orientada al desarrollo de métodos y aplicaciones en observación de la Tierra."
 
 publications:
   - title: “Enhanced CyGNSS Soil Moisture Retrieval Validated by In Situ Data in Argentina's Pampas”

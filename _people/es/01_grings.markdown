@@ -1,8 +1,8 @@
 ---
 lang: es
-name: Francisco Grings, PhD
+name: Dr. Francisco Grings
 pic: Grings
-position: President
+position: Presidente
 modal-id: grings
 social:
   # - title: twitter
@@ -12,6 +12,6 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/francisco-grings/?originalSubdomain=ar
 contact: 
-description: "(he/him) is a physicist and a leading researcher at CONICET, specializing in advanced quantitative remote sensing, electromagnetic scattering models, Bayesian inference, and deep learning techniques. With over two decades of experience in satellite-based time-series analysis, he has contributed significantly to major Argentine space missions (e.g., SAOCOM, SAC-D/Aquarius), focusing on the extraction of environmental parameters from SAR and multi-sensor satellite imagery."
+description: "(él) es físico e investigador principal del CONICET, especializado en teledetección cuantitativa avanzada, modelos de dispersión electromagnética, inferencia bayesiana y técnicas de aprendizaje profundo. Con más de dos décadas de experiencia en análisis de series temporales satelitales, ha contribuido significativamente a importantes misiones espaciales argentinas (p. ej., SAOCOM, SAC-D/Aquarius), centrándose en la extracción de parámetros ambientales a partir de imágenes satelitales SAR y multisensor."
 publications:
 ---

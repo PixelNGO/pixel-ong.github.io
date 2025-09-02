@@ -1,6 +1,6 @@
 ---
 lang: es
-name: Esteban Roitberg, PhD
+name: Dr. Esteban Roitberg
 pic: Roitberg
 position: Director
 modal-id: roitberg
@@ -12,6 +12,6 @@ social:
   # - title: google-plus
   #   url: #
 contact: 
-description: "(he/him) contributes strong expertise in data science, specializing in the application of machine learning and deep learning techniques to environmental challenges. He also has experience in the financial sector and in applying artificial intelligence to healthcare problems. His Ph.D. research focused on near-real-time deforestation detection using optical remote sensing combined with advanced machine learning models. His current roles as Senior Data Scientist and consultant emphasize methodological rigor in data analysis and the practical application of machine learning approaches. As an Adjunct Professor in the Data Science program at UNSAM, he designed and launched the university’s first Introduction to Machine Learning course, creating the syllabus, lectures, and assignments from scratch—and is now doing the same for the Advanced Machine Learning course."
+description: "(él) aporta una sólida experiencia en ciencia de datos, especializándose en la aplicación de técnicas de aprendizaje automático y aprendizaje profundo a desafíos ambientales. También cuenta con experiencia en el sector financiero y en la aplicación de inteligencia artificial a problemas de salud. Su investigación de doctorado se centró en la detección de deforestación casi en tiempo real mediante teledetección óptica combinada con modelos avanzados de aprendizaje automático. Sus funciones actuales como Científico de Datos Sénior y consultor se centran en el rigor metodológico en el análisis de datos y la aplicación práctica de enfoques de aprendizaje automático. Como Profesor Adjunto del programa de Ciencias de Datos de la UNSAM, diseñó y puso en marcha el primer curso de Introducción al Aprendizaje Automático de la universidad, creando el programa de estudios, las clases y las tareas desde cero, y ahora está haciendo lo mismo para el curso de Aprendizaje Automático Avanzado."
 publications:
 ---
