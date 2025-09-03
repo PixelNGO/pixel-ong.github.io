@@ -2,7 +2,7 @@
 lang: es
 name: Javier Arellana
 pic: Arellana
-position: Collaborator
+position: Colaborador
 modal-id: arellana
 social:
   - title: linkedin

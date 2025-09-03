@@ -2,7 +2,7 @@
 lang: es
 name: Francisco González Bianco
 pic: Bianco
-position: Collaborator
+position: Colaborador
 modal-id: bianco
 social:
   - title: linkedin
