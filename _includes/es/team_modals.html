@@ -1,5 +1,6 @@
  <!-- Team Modals -->
- {% for member in site.people %}
+ {% assign people = site.people | where:"lang", page.lang %}
+ {% for member in people %}
     <div class="portfolio-modal modal fade" id="teamModal{{ member.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
