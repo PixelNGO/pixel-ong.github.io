@@ -1,5 +1,6 @@
  <!-- Appearances Modals -->
- {% for post in site.appearances %}
+ {% assign apps = site.appearances | where:"lang", page.lang %}
+ {% for post in apps %}
     <div class="portfolio-modal modal fade" id="appearanceModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
