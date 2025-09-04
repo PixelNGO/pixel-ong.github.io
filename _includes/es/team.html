@@ -23,12 +23,19 @@
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
+                            {%if member.webpage and member.webpage != "" %}
+                                <li>
+                                    <a href="{{ member.webpage }}" target="_blank">
+                                        <i class="fa-solid fa-globe"></i>
+                                    </a>
+                                </li>
+                            {% endif %}
                             {% for network in member.social %}
-                            <li>
-                                <a href="{{ network.url }}">
-                                    <i class="fa-brands fa-{{ network.title }}"></i>
-                                </a>
-                            </li>
+                                <li>
+                                    <a href="{{ network.url }}">
+                                        <i class="fa-brands fa-{{ network.title }}"></i>
+                                    </a>
+                                </li>
                             {% endfor %}
                             {%if member.contact and member.contact != "" %}
                                 <li>

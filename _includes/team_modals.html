@@ -32,6 +32,13 @@
                                     </ol>
                             {% endif %}
                             <ul class="list-inline social-buttons">
+                                {%if member.webpage and member.webpage != "" %}
+                                <li>
+                                    <a href="{{ member.webpage }}" target="_blank">
+                                        <i class="fa-solid fa-globe"></i>
+                                    </a>
+                                </li>
+                            {% endif %}
                                 {% for network in member.social %}
                                     <li>
                                         <a href="{{ network.url }}" target="_blank">
