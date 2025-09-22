@@ -2,7 +2,7 @@
 lang: en
 name: Esteban Roitberg, PhD
 pic: Roitberg
-position: CEO
+position: Director
 modal-id: roitberg
 social:
   # - title: twitter
