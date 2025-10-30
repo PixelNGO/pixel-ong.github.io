@@ -1,7 +1,7 @@
-Agency Jekyll theme
+Pixel – Satellite-Based Environmental Data Analysis 2025
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Pixel is an NGO founded by scientists with a strong analytical background and extensive experience in environmental research. Our mission is to tackle pressing environmental issues using advanced quantitative tools, remote sensing, and artificial intelligence, generating quantitative data to enrich the public discussion.
 
 # How to use
 
@@ -22,8 +22,9 @@ Team members and info are in '_config.yml'
 Images are in '/img/team/'
 
 
-# Demo
+# Theme
 
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
 =========
