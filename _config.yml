@@ -14,8 +14,8 @@ social:
   #   url: #
   # - title: stack-overflow
   #   url: #
-  # - title: linkedin 
-  #   url: #
+  - title: linkedin 
+    url: https://www.linkedin.com/company/pixel-satellite-based-environmental-data-analysis/
   - title: github
     url: https://github.com/PixelNGO
 
