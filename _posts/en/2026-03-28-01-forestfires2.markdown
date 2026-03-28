@@ -20,7 +20,7 @@ Nuestro enfoque combinó fuentes satelitales diversas, incluyendo datos ópticos
 El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Los Alerces y su entorno, clasificadas de acuerdo al grado de severidad del incendio (de bajo a alto). La metodología desarrollada se puede replicar en otras áreas de interés y, en conjunto con conocimiento ecológico-ambiental, es posible analizar el impacto sobre distintos tipos de vegetación y áreas urbanas.
 <br>
 <br>
-<img src='/img/portfolio/wetlands.jpg' class='img-responsive img-centered' alt=''>
+<img src='/img/portfolio/mapa.jpg' class='img-responsive img-centered' alt=''>
 <br>
 <br>
 <div class='before-after-slider' id='slider-alerces'>
