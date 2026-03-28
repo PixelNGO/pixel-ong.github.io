@@ -5,9 +5,9 @@ subtitle: SAR, Optical
 layout: default
 modal-id: 4
 date: 2026-03-28
-img: alerces-after.jpg
-thumbnail: wetlands-thumbnail.jpg
-alt: image-alt
+img: ''
+thumbnail: alerces-after-thumbnail.png
+alt: ''
 project-date: March 2026
 client: Internal
 category: Environmental monitoring
