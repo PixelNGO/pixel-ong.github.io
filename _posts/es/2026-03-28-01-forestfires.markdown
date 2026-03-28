@@ -3,7 +3,7 @@ title: Detección satelital de incendios y quemas en Patagonia
 lang: es
 subtitle: SAR, Optical
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2026-03-28
 img: wetlands.jpg
 thumbnail: wetlands-thumbnail.jpg
@@ -21,6 +21,7 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 <br>
 <br>
 <strong>Referencias</strong>
+<br>
 - García, M. J .L., & Caselles, V. (1991). Mapping burns and natural reforestation using thematic mapper data. Geocarto International 6, 31–37. 
 - Key, C., & Benson, N. (2005). Landscape assessment: Ground measure of severity, the Composite Burn Index; and remote sensing of severity, the Normalized Burn Index. En D. Lutes, R. Keane, J. Caratti, C. Key, N. Benson, S. Sutherland, & Gangi, L. (Eds.), FIREMON: Fire effects monitoring and inventory system. General Technical Report RMRS-GTR-164-CD LA. (pp. 1−51) Rocky Mountains Research Station: USDA Forest Service.
 - MapBiomas  Argentina  (2024).  Proyecto MapBiomas Argentina- Colección 2 de los Mapas Anuales de Cobertura y Uso del Suelo en Argentina, accedido el 16 de marzo de 2026 a través del enlace: MapBiomas.

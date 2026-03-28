@@ -3,7 +3,7 @@ title: Satellite detection of fires and burning in Patagonia
 lang: en
 subtitle: SAR, Optical
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2026-03-28
 img: wetlands.jpg
 thumbnail: wetlands-thumbnail.jpg
