@@ -4,7 +4,7 @@ lang: en
 subtitle: SAR, Optical
 layout: default
 modal-id: 1
-date: 2014-07-16
+date: 2026-07-16
 img: wetlands.jpg
 thumbnail: wetlands-thumbnail.jpg
 alt: image-alt
