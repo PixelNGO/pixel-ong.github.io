@@ -24,9 +24,9 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 <br>
 <br>
 <div class='before-after-slider' id='slider-alerces'>
-  <img src='/img/portfolio/alerces-after.jpg' alt='Imagen posterior al incendio'>
+  <img src='/img/portfolio/alerces-after.png' alt='Imagen posterior al incendio'>
   <div class='ba-before' id='ba-before-alerces'>
-    <img src='/img/portfolio/alerces-before.jpg' alt='Imagen anterior al incendio'>
+    <img src='/img/portfolio/alerces-before.png' alt='Imagen anterior al incendio'>
   </div>
   <div class='ba-divider' id='ba-divider-alerces'>
     <div class='ba-handle'>
