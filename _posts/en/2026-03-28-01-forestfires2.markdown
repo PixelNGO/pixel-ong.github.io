@@ -5,7 +5,7 @@ subtitle: SAR, Optical
 layout: default
 modal-id: 4
 date: 2026-03-28
-img: wetlands.jpg
+img: alerces-after.jpg
 thumbnail: wetlands-thumbnail.jpg
 alt: image-alt
 project-date: March 2026
