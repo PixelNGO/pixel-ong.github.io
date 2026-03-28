@@ -1,7 +1,7 @@
 ---
 title: Satellite detection of fires and burning in Patagonia
 lang: en
-subtitle: SAR, Optical
+subtitle: ''
 layout: default
 modal-id: 4
 date: 2026-03-28
