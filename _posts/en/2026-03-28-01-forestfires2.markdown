@@ -63,14 +63,7 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
     overflow: hidden;
     width: 50%;
   }
-  .ba-before img {
-    position: absolute;
-    top: 0; left: 0;
-    height: 100%;
-    width: auto;
-    max-width: none;
-    pointer-events: none;
-  }
+
   .ba-divider {
     position: absolute;
     top: 0; bottom: 0;
