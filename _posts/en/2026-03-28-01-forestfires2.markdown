@@ -24,9 +24,9 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 <br>
 <br>
 <div class='before-after-slider' id='slider-alerces'>
-  <img src='/img/portfolio/alerces-after.png' alt='Imagen posterior al incendio'>
+  <img src='/img/portfolio/alerces-after.jpg' alt='Imagen posterior al incendio'>
   <div class='ba-before' id='ba-before-alerces'>
-    <img src='/img/portfolio/alerces-before.png' alt='Imagen anterior al incendio'>
+    <img src='/img/portfolio/alerces-before.jpg' alt='Imagen anterior al incendio'>
   </div>
   <div class='ba-divider' id='ba-divider-alerces'>
     <div class='ba-handle'>
@@ -50,25 +50,32 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
     border-radius: 8px;
     cursor: col-resize;
     border: 1px solid rgba(0,0,0,0.12);
+    aspect-ratio: 1386 / 924;
+  }
+  .before-after-slider {
+    aspect-ratio: 1386 / 924;
   }
   .before-after-slider > img {
-    display: block;
-    width: 100%;
-    height: auto;
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    object-position: center;
     pointer-events: none;
+    display: block;
   }
   .ba-before {
     position: absolute;
-    inset: 0;
+    top: 0; left: 0; bottom: 0;
     overflow: hidden;
     width: 50%;
   }
   .ba-before img {
-    position: absolute;
-    top: 0; left: 0;
-    height: 100%;
-    width: auto;
+    width: 200%;
     max-width: none;
+    height: 100%;
+    object-fit: cover;
+    object-position: left center;
     pointer-events: none;
   }
   .ba-divider {
@@ -149,5 +156,4 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 - MapBiomas  Argentina  (2024).  Proyecto MapBiomas Argentina- Colección 2 de los Mapas Anuales de Cobertura y Uso del Suelo en Argentina, accedido el 16 de marzo de 2026 a través del enlace: MapBiomas.
 <br>
 - NASA's Fire Information for Resource Management System, 2021. MODIS Collection 61 NRT Hotspot Active Fire Detections MCD14DL distributed from NASA FIRMS. doi:10.5067/FIRMS/MODIS/MCD14DL.NRT.0061. Plataforma en línea: Fire Map - NASA | LANCE | FIRMS"
-
 ---
