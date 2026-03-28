@@ -139,7 +139,7 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 })();
 </script>
 <br>
-<p style='text-align: justify;'>
+
 <strong>References</strong>
 <br>
 - García, M. J .L., & Caselles, V. (1991). Mapping burns and natural reforestation using thematic mapper data. Geocarto International 6, 31–37. 
@@ -149,5 +149,5 @@ El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Lo
 - MapBiomas  Argentina  (2024).  Proyecto MapBiomas Argentina- Colección 2 de los Mapas Anuales de Cobertura y Uso del Suelo en Argentina, accedido el 16 de marzo de 2026 a través del enlace: MapBiomas.
 <br>
 - NASA's Fire Information for Resource Management System, 2021. MODIS Collection 61 NRT Hotspot Active Fire Detections MCD14DL distributed from NASA FIRMS. doi:10.5067/FIRMS/MODIS/MCD14DL.NRT.0061. Plataforma en línea: Fire Map - NASA | LANCE | FIRMS"
-</p>
+
 ---
