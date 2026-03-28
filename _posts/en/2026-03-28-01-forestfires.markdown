@@ -20,6 +20,9 @@ Nuestro enfoque combinó fuentes satelitales diversas, incluyendo datos ópticos
 El mapa final presenta las áreas de vegetación quemadas del Parque Nacional Los Alerces y su entorno, clasificadas de acuerdo al grado de severidad del incendio (de bajo a alto). La metodología desarrollada se puede replicar en otras áreas de interés y, en conjunto con conocimiento ecológico-ambiental, es posible analizar el impacto sobre distintos tipos de vegetación y áreas urbanas.
 <br>
 <br>
+<img src='/img/portfolio/wetlands.jpg' class='img-responsive img-centered' alt=''>
+<br>
+<br>
 <strong>Referencias</strong>
 - García, M. J .L., & Caselles, V. (1991). Mapping burns and natural reforestation using thematic mapper data. Geocarto International 6, 31–37. 
 - Key, C., & Benson, N. (2005). Landscape assessment: Ground measure of severity, the Composite Burn Index; and remote sensing of severity, the Normalized Burn Index. En D. Lutes, R. Keane, J. Caratti, C. Key, N. Benson, S. Sutherland, & Gangi, L. (Eds.), FIREMON: Fire effects monitoring and inventory system. General Technical Report RMRS-GTR-164-CD LA. (pp. 1−51) Rocky Mountains Research Station: USDA Forest Service.
