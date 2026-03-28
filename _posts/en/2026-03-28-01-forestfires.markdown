@@ -1,5 +1,5 @@
 ---
-title: Wetlands
+title: Satellite detection of fires and burning in Patagonia
 lang: en
 subtitle: SAR, Optical
 layout: default
@@ -8,7 +8,7 @@ date: 2014-07-16
 img: wetlands.jpg
 thumbnail: wetlands-thumbnail.jpg
 alt: image-alt
-project-date: August 2025
+project-date: March 2026
 client: CONAE
 category: Environmental monitoring
 description: "Los incendios en Patagonia son una problemática ambiental creciente, con un aumento sostenido en su frecuencia y magnitud en los últimos años. El fenómeno responde a múltiples causas (naturales y antrópicas) y sus efectos se ven agravados por el cambio climático y por el recorte presupuestario en las herramientas de prevención y manejo del fuego. En este contexto, desde Píxel aportamos a la identificación de las áreas de vegetación quemada durante el verano 2025-2026 y estimamos la severidad de los incendios en la zona del Parque y la Reserva Nacional Los Alerces y sus alrededores (provincia de Chubut, Argentina), a partir de información satelital. Los resultados muestran que la superficie de vegetación afectada por incendios (mayoritariamente bosques) alcanzó 42.500 ha, lo que equivale a cerca del 4% de la superficie del Parque Nacional y al 14% de la Reserva.
