@@ -20,7 +20,7 @@ Our approach combined diverse satellite sources, including multispectral optical
 The final map shows the burned vegetation areas of Los Alerces National Park and its surroundings, classified according to the severity of the fire (from low to high). The methodology developed can be replicated in other areas of interest and, combined with ecological and environmental knowledge, can be used to analyze the impact on different types of vegetation and urban areas.
 <br>
 <br>
-If you want to access a raster version of the map, you can download it <strong><a href='https://drive.google.com/drive/folders/1rmh7yFz496JyDFhoQgQ28zojtd1_mRlp?usp=sharing'>here</a></strong>
+If you want to access a raster version of the map, you can download it <strong><a href='https://drive.google.com/drive/folders/1rmh7yFz496JyDFhoQgQ28zojtd1_mRlp?usp=sharing'>here</a></strong>.
 <br>
 <br>
 <img src='/img/portfolio/mapa.jpg' class='img-responsive img-centered' alt=''>
